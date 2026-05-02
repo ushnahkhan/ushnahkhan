@@ -43,8 +43,8 @@ I enjoy solving complex problems and building applications using modern tools an
 ## 📫 Contact
 
 - Email: ushikhan09@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link  
-- GitHub: https://github.com/your-username  
+- LinkedIn: https://www.linkedin.com/in/ushnah-k-57631b36a/
+- GitHub: https://github.com/ushnahkhan
 
 ---
 
