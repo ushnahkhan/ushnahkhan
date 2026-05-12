@@ -23,21 +23,6 @@ I enjoy solving complex problems and building applications using modern tools an
 
 ---
 
-## 🚀 Projects
-
-- 🏡 PropHunt – Android property search app using Java, XML, and Firebase Firestore  
-- 🛒 Online Grocery Store – Node.js + MSSQL backend system  
-- 🐾 Pet Adoption System – Full-stack app using React and Express.js  
-- 📊 Multiple academic projects using OOP, Data Structures, and Assembly Language  
-
----
-
-## 🏆 Achievements
-
-- Dean’s List Honors (Fall 2023, Fall 2025)  
-- Gold Medalist (O Levels: 8 A/A*, A Levels: 3 A/A*)  
-- Winner of multiple science and academic competitions  
-
 ---
 
 ## 📫 Contact
